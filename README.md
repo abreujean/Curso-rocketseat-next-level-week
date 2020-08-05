@@ -1,2 +1,2 @@
 # next-level-week
-Aplicação web feita na Next Level Week
+Aplicação web feita na Next Level Week - Rocketseat
